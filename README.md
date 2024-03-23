@@ -10,7 +10,7 @@ consumo de API externa em golang </b></h3>
 <br>
 <b> Para rodar o projeto: </b> 
 <br>
-<b>go run main.go</b> ou gere um build com <b>go build -o "nome do build"</b>, depois vai gerar um executável que voceê pode rodar com 
-<b>./"nome do build"</b> <br>
+<b>go run main.go "numero do cep"</b> ou gere um build com <b>go build -o "nome do build"</b>, depois vai gerar um executável que voceê pode rodar com 
+<b>./"nome do build" "numero do cep"</b> <br>
 <br>
 </h4>
